@@ -1,0 +1,22 @@
+{
+  "name": "testlab",
+  "version": "1.0.0",
+  "description": "test for android music app",
+  "main": "appiumtest.js",
+  "dependencies": {
+    "appium-uiautomator2-driver": "^1.12.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.2.0",
+    "wd": "^1.7.0",
+    "wdio-appium-service": "^0.2.3",
+    "wdio-mocha-framework": "^0.5.13",
+    "webdriverio": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chuma Menziwa",
+  "license": "ISC"
+}
